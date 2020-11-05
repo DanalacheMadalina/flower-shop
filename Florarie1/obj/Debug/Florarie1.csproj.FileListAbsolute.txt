@@ -1,0 +1,48 @@
+C:\Users\danal\Desktop\Florarie1\Florarie1\obj\Debug\Florarie1.csprojAssemblyReference.cache
+C:\Users\danal\Desktop\Florarie1\Florarie1\obj\Debug\Florarie1.Client.resources
+C:\Users\danal\Desktop\Florarie1\Florarie1\obj\Debug\Florarie1.Form1.resources
+C:\Users\danal\Desktop\Florarie1\Florarie1\obj\Debug\Florarie1.csproj.GenerateResource.cache
+C:\Users\danal\Desktop\Florarie1\Florarie1\bin\Debug\Florarie1.exe.config
+C:\Users\danal\Desktop\Florarie1\Florarie1\bin\Debug\Florarie1.exe
+C:\Users\danal\Desktop\Florarie1\Florarie1\bin\Debug\Florarie1.pdb
+C:\Users\danal\Desktop\Florarie1\Florarie1\obj\Debug\Florarie1.Properties.Resources.resources
+C:\Users\danal\Desktop\Florarie1\Florarie1\obj\Debug\Florarie1.csproj.CoreCompileInputs.cache
+C:\Users\danal\Desktop\Florarie1\Florarie1\obj\Debug\Florarie1.exe
+C:\Users\danal\Desktop\Florarie1\Florarie1\obj\Debug\Florarie1.pdb
+C:\Users\danal\Desktop\Florarie1\Florarie1\obj\Debug\Florarie1.Livrare.resources
+C:\Users\danal\Desktop\Florarie1\Florarie1\obj\Debug\Florarie1.Statistici.resources
+C:\Users\danal\Desktop\Florarie1\Florarie1\obj\Debug\Florarie1.Administrator.resources
+C:\Users\danal\Desktop\Florarie1\Florarie1\obj\Debug\Florarie1.ProdusNou.resources
+C:\Users\danal\Desktop\Florarie1\Florarie1\obj\Debug\Florarie1.AdaugaProd.resources
+F:\paw\paw flisc\Florarie1\Florarie1\bin\Debug\Florarie1.exe.config
+F:\paw\paw flisc\Florarie1\Florarie1\bin\Debug\Florarie1.exe
+F:\paw\paw flisc\Florarie1\Florarie1\bin\Debug\Florarie1.pdb
+F:\paw\paw flisc\Florarie1\Florarie1\obj\Debug\Florarie1.csprojAssemblyReference.cache
+F:\paw\paw flisc\Florarie1\Florarie1\obj\Debug\Florarie1.AdaugaProd.resources
+F:\paw\paw flisc\Florarie1\Florarie1\obj\Debug\Florarie1.Administrator.resources
+F:\paw\paw flisc\Florarie1\Florarie1\obj\Debug\Florarie1.Client.resources
+F:\paw\paw flisc\Florarie1\Florarie1\obj\Debug\Florarie1.Form1.resources
+F:\paw\paw flisc\Florarie1\Florarie1\obj\Debug\Florarie1.Livrare.resources
+F:\paw\paw flisc\Florarie1\Florarie1\obj\Debug\Florarie1.ProdusNou.resources
+F:\paw\paw flisc\Florarie1\Florarie1\obj\Debug\Florarie1.Properties.Resources.resources
+F:\paw\paw flisc\Florarie1\Florarie1\obj\Debug\Florarie1.Statistici.resources
+F:\paw\paw flisc\Florarie1\Florarie1\obj\Debug\Florarie1.csproj.GenerateResource.cache
+F:\paw\paw flisc\Florarie1\Florarie1\obj\Debug\Florarie1.csproj.CoreCompileInputs.cache
+F:\paw\paw flisc\Florarie1\Florarie1\obj\Debug\Florarie1.exe
+F:\paw\paw flisc\Florarie1\Florarie1\obj\Debug\Florarie1.pdb
+F:\paw\Proiect Danalache Final Florarie\Florarie1\bin\Debug\Florarie1.exe.config
+F:\paw\Proiect Danalache Final Florarie\Florarie1\bin\Debug\Florarie1.exe
+F:\paw\Proiect Danalache Final Florarie\Florarie1\bin\Debug\Florarie1.pdb
+F:\paw\Proiect Danalache Final Florarie\Florarie1\obj\Debug\Florarie1.csprojAssemblyReference.cache
+F:\paw\Proiect Danalache Final Florarie\Florarie1\obj\Debug\Florarie1.AdaugaProd.resources
+F:\paw\Proiect Danalache Final Florarie\Florarie1\obj\Debug\Florarie1.Administrator.resources
+F:\paw\Proiect Danalache Final Florarie\Florarie1\obj\Debug\Florarie1.Client.resources
+F:\paw\Proiect Danalache Final Florarie\Florarie1\obj\Debug\Florarie1.Form1.resources
+F:\paw\Proiect Danalache Final Florarie\Florarie1\obj\Debug\Florarie1.Livrare.resources
+F:\paw\Proiect Danalache Final Florarie\Florarie1\obj\Debug\Florarie1.ProdusNou.resources
+F:\paw\Proiect Danalache Final Florarie\Florarie1\obj\Debug\Florarie1.Properties.Resources.resources
+F:\paw\Proiect Danalache Final Florarie\Florarie1\obj\Debug\Florarie1.Statistici.resources
+F:\paw\Proiect Danalache Final Florarie\Florarie1\obj\Debug\Florarie1.csproj.GenerateResource.cache
+F:\paw\Proiect Danalache Final Florarie\Florarie1\obj\Debug\Florarie1.csproj.CoreCompileInputs.cache
+F:\paw\Proiect Danalache Final Florarie\Florarie1\obj\Debug\Florarie1.exe
+F:\paw\Proiect Danalache Final Florarie\Florarie1\obj\Debug\Florarie1.pdb

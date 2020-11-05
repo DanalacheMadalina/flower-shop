@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lista-persoane>
+  <Produs>
+    <nume>lalea</nume>
+    <Pret>13</Pret>
+    <Cantitate>42</Cantitate>
+  </Produs>
+  <Produs>
+    <nume>Crin</nume>
+    <Pret>25</Pret>
+    <Cantitate>88</Cantitate>
+  </Produs>
+  <Produs>
+    <nume>Bujor</nume>
+    <Pret>20</Pret>
+    <Cantitate>5</Cantitate>
+  </Produs>
+  <Produs>
+    <nume>Trandafir</nume>
+    <Pret>34</Pret>
+    <Cantitate>4</Cantitate>
+  </Produs>
+  <Produs>
+    <nume>crizanteme</nume>
+    <Pret>20</Pret>
+    <Cantitate>10</Cantitate>
+  </Produs>
+</Lista-persoane>
